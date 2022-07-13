@@ -35,7 +35,7 @@
     overflow: hidden;
     background: linear-gradient(#87CEEB, #E0F6FF);
     margin-top: 2%;
-
+ 
 }
 
 
@@ -71,6 +71,14 @@
 }
 
 
+
+.up_mobile{
+
+    width: 10px;
+    height: 10px;
+ 
+    margin-left: 20%;
+}
 
 
 @keyframes pipe-animation {

@@ -1,6 +1,7 @@
 const mario = document.querySelector('.mario');
 const pipe = document.querySelector('.pipe');
-const nuvens = document.querySelector('.clouds')
+const nuvens = document.querySelector('.clouds');
+
 
 
 const jump = () =>{
